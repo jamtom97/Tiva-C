@@ -1,1 +1,7 @@
 flash-tools
+project_linker.ld
+startup.o
+final.map
+final.elf
+blinky.o
+stellaris_icdi_drivers
