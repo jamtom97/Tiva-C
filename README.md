@@ -6,5 +6,5 @@
 mapping into the right memory address for the differenct sections. The startup code just has the vector table initialization and is the entry point for code execution.
 5. Get OpenOCD(open on-chip debugger) and gdb-multiarch(possibly). OpenOCD will make it possible to attach your debugger to a host. Since this is for Linux, the flashing 
 tool I will be using is lm4flash from the lm4tools package. 
-**For OpenOCD, lm4flash, and gdb, I'd recommend looking at [title](https://www.jann.cc/2012/12/11/getting_started_with_the_ti_stellaris_launchpad_on_linux.html#install-the-lm4flash-tool).**[^1]
+**For OpenOCD, lm4flash, and gdb, I'd recommend looking at [Getting Started with the TI Stellaris LaunchPad on Linux](https://www.jann.cc/2012/12/11/getting_started_with_the_ti_stellaris_launchpad_on_linux.html#install-the-lm4flash-tool).** [^1]
 
